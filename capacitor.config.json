@@ -1,0 +1,8 @@
+{
+  "appId": "com.tabadol.app",
+  "appName": "Tabadol",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
